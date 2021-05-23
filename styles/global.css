@@ -1,0 +1,17 @@
+nav {
+  background-color: #eee !important;
+  margin-bottom: 20px;
+}
+.navbar-brand {
+  color: #4285f4 !important;
+}
+.nav-link {
+  color: #4285f4 !important;
+}
+footer {
+  margin-top: 365px;
+  text-align: center;
+  color: #4285f4;
+  background-color: #eee;
+  padding: 30px;
+}

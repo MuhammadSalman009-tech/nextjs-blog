@@ -1,0 +1,11 @@
+.listItem {
+  padding: 18px 5px;
+  border-left: 18px solid #fff;
+  display: block;
+  color: #4285f4;
+  text-decoration: none;
+}
+.listItem:hover {
+  border-left: 18px solid #4285f4;
+  color: #4285f4;
+}
